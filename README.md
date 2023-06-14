@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/bart%C5%82omiej-jamio%C5%82kowski-4711531a2/">
-    <img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/kaggle.svg" alt="Kaggle Badge"/>
+    <img src="https://icon-icons.com/icon/kaggle-logo/168474" alt="Kaggle Badge"/>
   </a>
 </div>
 
