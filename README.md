@@ -9,7 +9,7 @@
 <h4>&#x2705; Linux/Unix</h4>
 <h4>&#x2705; C/C++</h4>
 <h4>&#x2705; Java</h4>
-<div>&#10004;
+<div>&#x2713;
   <p>Git</p>
 </div>
 
