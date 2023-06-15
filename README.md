@@ -2,7 +2,7 @@
 
 
 ## :hammer_and_wrench: Languages and Tools :
-<h6>&#x2705; Git</h6>
+<h4>&#x2705; Git</h4>
 <h6>&#x2705; Python (numpy, pandas, matplotlib,seaborn, nltk, regex, keras)</h6>
 <h6>&#x2705; R</h6>
 <h6>&#x2705; SQL</h6>
