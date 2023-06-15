@@ -2,12 +2,13 @@
 
 
 ## :hammer_and_wrench: Languages and Tools :
-<h6>&#x2705; HTML</h6>
-<h6>&#x2705; CSS</h6>
-<h6>&#x2705; JavaScript</h6>
-<h6>&#x2705; PHP</h6>
-
-
+<h6>&#x2705; Git</h6>
+<h6>&#x2705; Python (numpy, pandas, matplotlib,seaborn, nltk, regex, keras)</h6>
+<h6>&#x2705; R</h6>
+<h6>&#x2705; SQL</h6>
+<h6>&#x2705; Linux, Unix</h6>
+<h6>&#x2705; C/C++</h6>
+<h6>&#x2705; Java</h6>
 
 ## :email: Contact :
 <div>&#x2022;
@@ -18,6 +19,3 @@
 <div>&#x2022;
   <a href="https://www.kaggle.com/bartomiejjamiokowski">Kaggle</a>
 </div>
-
-
-
