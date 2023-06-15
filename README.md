@@ -3,9 +3,9 @@
 
 ## :hammer_and_wrench: Languages and Tools :
 <h6>&#x2705; HTML</h6>
-<h3>&#x2705; CSS</h3>
-<h3>&#x2705; JavaScript</h3>
-<h3>&#x2705; PHP</h3>
+<h6>&#x2705; CSS</h6>
+<h6>&#x2705; JavaScript</h6>
+<h6>&#x2705; PHP</h6>
 
 
 
