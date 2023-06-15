@@ -2,16 +2,14 @@
 
 
 ## :hammer_and_wrench: Languages and Tools :
-<h4>&#x2705; Git</h4>
-<h4>&#x2705; Python (numpy, pandas, matplotlib, seaborn, nltk, regex, keras)</h4>
-<h4>&#x2705; R</h4>
-<h4>&#x2705; SQL</h4>
-<h4>&#x2705; Linux/Unix</h4>
-<h4>&#x2705; C/C++</h4>
-<h4>&#x2705; Java</h4>
-<div>&#x2705;
-  <p>&#x2705;Git</p>
-  <p>&#x2705;Python (numpy, pandas, matplotlib, seaborn, nltk, regex, keras)</p>
+<div>
+  <p>&#x2705; Git</p>
+  <p>&#x2705; Python (numpy, pandas, matplotlib, seaborn, nltk, regex, keras)</p>
+  <p>&#x2705; R</p>
+  <p>&#x2705; SQL</p>
+  <p>&#x2705; Linux/Unix</p>
+  <p>&#x2705; C/C++</p>
+  <p>&#x2705; Java</p>
 </div>
 
 ## :email: Contact :
