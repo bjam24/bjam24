@@ -9,6 +9,9 @@
 <h4>&#x2705; Linux/Unix</h4>
 <h4>&#x2705; C/C++</h4>
 <h4>&#x2705; Java</h4>
+<div>&#10004;
+  <p>Git</p>
+</div>
 
 ## :email: Contact :
 <div>&#x2022;
