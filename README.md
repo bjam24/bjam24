@@ -10,8 +10,8 @@
 <h4>&#x2705; C/C++</h4>
 <h4>&#x2705; Java</h4>
 <div>&#x2705;
-  <p>Git</p>
-  <p>Python (numpy, pandas, matplotlib, seaborn, nltk, regex, keras)</p>
+  <p>&#x2705;Git</p>
+  <p>&#x2705;Python (numpy, pandas, matplotlib, seaborn, nltk, regex, keras)</p>
 </div>
 
 ## :email: Contact :
