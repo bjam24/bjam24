@@ -11,6 +11,7 @@
 <h4>&#x2705; Java</h4>
 <div>&#x2705;
   <p>Git</p>
+  <p>Python (numpy, pandas, matplotlib, seaborn, nltk, regex, keras)</p>
 </div>
 
 ## :email: Contact :
