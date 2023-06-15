@@ -3,10 +3,10 @@
 
 ## :hammer_and_wrench: Languages and Tools :
 <h4>&#x2705; Git</h4>
-<h4>&#x2705; Python (numpy, pandas, matplotlib,seaborn, nltk, regex, keras)</h4>
+<h4>&#x2705; Python (numpy, pandas, matplotlib, seaborn, nltk, regex, keras)</h4>
 <h4>&#x2705; R</h4>
 <h4>&#x2705; SQL</h4>
-<h4>&#x2705; Linux, Unix</h4>
+<h4>&#x2705; Linux/Unix</h4>
 <h4>&#x2705; C/C++</h4>
 <h4>&#x2705; Java</h4>
 
