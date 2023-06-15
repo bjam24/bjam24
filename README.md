@@ -1,6 +1,6 @@
 ## :wave: Hi there :
 My name is Bartłomiej Jamiołkowski and I am 4rd year student. Currently I am studying Computer Science - Data Science on AGH UST, where I am broadening knowledge about many areas of AI. I have also graduated 
-Computer Science and Econometrics on the same university. 
+Computer Science and Econometrics on the same university. Data Science, Machine Learning and Software Engineering are fields on which I am mostly focused on.
 
 ## :hammer_and_wrench: Languages and Tools :
 <div>
