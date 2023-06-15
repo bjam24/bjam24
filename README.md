@@ -1,12 +1,6 @@
 ## :wave: Hi there :
 
-ul.ticks {
-  list-style: none;
-}
 
-ul.ticks li:before {
-  content: '\2705';
-}
 ## :hammer_and_wrench: Languages and Tools :
 <ul class="ticks">
   <li>WordPress is an open source platform</li>
