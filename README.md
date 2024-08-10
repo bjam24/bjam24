@@ -15,10 +15,11 @@
 
 <h2 align="center">💻 Public projects</h2>
 
-<h3>Machine Learning</h2>
+<h3>🤖 Machine Learning</h2>
 
-<h3>Natural Language Processing (NLP)</h2>
+<h3>🗣️ Natural Language Processing (NLP)</h2>
 
-<h3>Computer Vision</h2>
+<h3>👁️ Computer Vision</h2>
 
+<h3>♨️ Java apps/h2>
 
