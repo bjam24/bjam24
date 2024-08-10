@@ -11,4 +11,4 @@
 
 - 👨‍🎓 **Bachelor's degree graduate** in **Computer Science and Econometrics** at the **AGH University of Science and Technology**,
   
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-matipl01-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bartlomiej-jamiolkowski-4711531a2/)
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-bjam24-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bartlomiej-jamiolkowski-4711531a2/)
