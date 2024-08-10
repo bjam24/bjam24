@@ -6,6 +6,7 @@
 <h2 align="center">👨 About me:</h2>
 
 <h3>Key facts</h3>
+
 - 👨‍🎓 **Master of Engineering degree pursuer** in **Computer Science - Data Science* at the **AGH University of Science and Technology**,
 
 - 👨‍🎓 **Bachelor's degree graduate** in **Computer Science and Econometrics** at the **AGH University of Science and Technology**,
