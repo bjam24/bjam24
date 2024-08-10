@@ -30,5 +30,5 @@
 
 <h3>👁️ Computer Vision</h2>
 
-<h3>♨️ Java apps/h2>
+<h3>♨️ Java apps</h2>
 
