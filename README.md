@@ -1,4 +1,4 @@
-## Hi, I'm Bartłomiej 👋
+## Hi, I'm Bart 👋
 I'm a fifth-year Polish student
 <!--
 **bjam24/bjam24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
