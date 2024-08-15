@@ -18,7 +18,8 @@
 <div align="center">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" alt="opencv" width="40" height="40"/> </a> 
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
+<a href="https://www.tensorflow.org/?hl=pl"> <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" alt="opencv" width="40" height="40"/> </a> 
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
 </div>
 
 <h2 align="center">💻 Public projects</h2>
