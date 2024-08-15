@@ -13,6 +13,12 @@
   
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-bjam24-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bartlomiej-jamiolkowski-4711531a2/)
 
+<h2 align="center">💻 Languages and Tools:</h2>
+
+<div align="center">
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
+</div>
+
 <h2 align="center">💻 Public projects</h2>
 
 <h3>🤖 Machine Learning</h2>
