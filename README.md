@@ -36,13 +36,17 @@
       <img width="279px" alt="https://github.com/bjam24/bank_customer_segmentation_methods" src="https://github-readme-stats.vercel.app/api/pin/?username=bjam24&repo=bank_customer_segmentation_methods&hide_border=true&title_color=222" />
     </picture>
   </a>
+  <a href="https://github.com/bjam24/traveling-salesman-problem">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" width="279px" srcset="https://github-readme-stats.vercel.app/api/pin/?username=bjam24&repo=traveling-salesman-problem&bg_color=0d1117&hide_border=true&text_color=e7e7e8&title_color=bbb" />
+      <img width="279px" alt="https://github.com/bjam24/traveling-salesman-problem" src="https://github-readme-stats.vercel.app/api/pin/?username=bjam24&repo=traveling-salesman-problem&hide_border=true&title_color=222" />
+    </picture>
+  </a>
 </div>
 
 <h3>🗣️ Natural Language Processing (NLP)</h2>
 
 <h3>👁️ Computer Vision</h2>
 
-
-
-<h3>♨️ Java apps</h2>
+<h3>♨️ Java </h2>
 
