@@ -17,8 +17,11 @@ Former mentor of Erasmus students - I'm very tolerant and I'm open to assimilate
 
 ###💡 Beyond Tech
 During my free time, I enjoy:
+
 📚 Learning new languages & history
+
 🌿 Outdoor activities like swimming, cycling and more
+
 📖 Reading books
 
 📫 Get in Touch
