@@ -11,10 +11,10 @@ Data Science 📊 – Applying statistical methods to extract meaningful insight
 Algorithmic Trading 📈 – Explored trading strategies, financial models and software development in my Bachelor's Thesis. I am constantly learning new aspects of this fascinating area of knowledge.
 
 ### 🎓 Academic & Research Activities
-Board Member of AI Lab, a student research club at AGH UST.
-Organize lectures, recruitment processes and discussions with new candidates.
-Former mentor of Erasmus students
-I'm very tolerant and I'm open to assimilate with other cultures.
+Board Member of AI Lab, a student research club at AGH UST - I organize lectures, recruitment processes and discussions with new candidates.
+
+Former mentor of Erasmus students - I'm very tolerant and I'm open to assimilate with other cultures.
+
 ###💡 Beyond Tech
 During my free time, I enjoy:
 📚 Learning new languages & history
