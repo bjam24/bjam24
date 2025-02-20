@@ -16,7 +16,7 @@ Former mentor of Erasmus students - I'm very tolerant and I'm open to assimilate
 ### Beyond Tech
 During my free time, I enjoy:</br>
 📚 Learning new languages & history</br>
-👐 I am LEGO collector</br>
+👐 I'm LEGO collector</br>
 🚲 Outdoor activities like swimming, cycling and more</br>
 📖 Reading books
 
