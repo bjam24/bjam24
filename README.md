@@ -12,6 +12,6 @@ Board Member of AI Lab, a student research club at AGH UST - I organize lectures
 Former mentor of Erasmus students - I'm very tolerant and I'm open to assimilate with other cultures.
 ### Beyond Tech
 During my free time, I enjoy:</br>
-📚 Learning new languages & history</br>
+📚 Learning new languages & ancient history</br>
 🚲 Outdoor activities like swimming, cycling and more</br>
 📖 Reading books
