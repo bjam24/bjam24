@@ -1,6 +1,6 @@
 ## Welcome to My GitHub Profile! 😎
 ### 🚀 About Me
-Hi, I'm Bart, a final-year Computer Science - Data Science student at AGH University of Science and Technology. My passion lies in Artificial Intelligence, Data Science and Algorithmic Trading. I thrive on solving complex problems and uncovering hidden patterns in data.
+Hi, I'm Bart, a final-year Computer Science - Data Science student at AGH University of Science and Technology. My passion lies in Artificial Intelligence, Data Science and Software Engineering. I thrive on solving complex problems and uncovering hidden patterns in data.
 
 I am someone who constantly sets new goals, explores diverse interests and demands continuous improvement from myself. Since childhood, I have followed a single principle: creating. Whether it's AI models, trading strategies or software solutions, I’m always building, innovating and pushing boundaries despite obstacles.
 ### 🔬 Areas of Interest
@@ -13,6 +13,5 @@ Former mentor of Erasmus students - I'm very tolerant and I'm open to assimilate
 ### Beyond Tech
 During my free time, I enjoy:</br>
 📚 Learning new languages & history</br>
-👐 I'm LEGO collector</br>
 🚲 Outdoor activities like swimming, cycling and more</br>
 📖 Reading books
